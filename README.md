@@ -11,8 +11,8 @@ If you find the codes are useful, consider **cite our paper** [Integrated single
 Several changes were made after the codes deposited
 
 Codes for figures in publication should reorder:
-Fig.1: Folder Fig1
-Fig.2: Folder Fig2
+Fig.1: Folder Fig1  
+Fig.2: Folder Fig2  
 
 
 
