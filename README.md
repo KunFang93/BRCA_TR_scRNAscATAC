@@ -12,7 +12,9 @@ Several changes were made after the codes deposited
 
 Codes for figures in publication should reorder:  
 Fig.1: Folder Fig1  
-Fig.2: Folder Fig2  
+Fig.2: Folder Fig2 and Folder Fig3
+Fig.3: Folder Fig4
+Fig.4: Folder Fig5
 
 
 
