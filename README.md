@@ -19,7 +19,7 @@ Fig.4: Folder Fig5
 Fig.5: Folder Fig6  
 Folder Fig7's content all move to Supple.  
 ```
-Please feel free to open an issue if you have any question about the codes. 
+Please feel free to contact me for accessing the processed data and open an issue if you have any question about the codes. 
 
 Cheers!
 
