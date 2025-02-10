@@ -8,6 +8,7 @@ If you find the codes are useful, consider **cite our paper** [Integrated single
 
 
 ## Updated information
+### Note codes use Seurat (v4.3.0), might not be compatible with v5
 Several changes were made after the codes deposited
 
 Codes for figures in publication should reorder:  
